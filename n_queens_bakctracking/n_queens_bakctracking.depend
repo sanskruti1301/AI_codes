@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1695614967 source:d:\thirdyear\cs\n_queens_bakctracking\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+
+1695614967 source:d:\thirdyear\ai\n_queens_bakctracking\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+

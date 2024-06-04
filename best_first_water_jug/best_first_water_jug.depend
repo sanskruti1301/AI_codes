@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701225633 source:d:\thirdyear\ai\best_first_water_jug\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

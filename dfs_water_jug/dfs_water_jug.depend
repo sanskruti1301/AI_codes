@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697427155 source:d:\thirdyear\ai\dfs_water_jug\main.c
+	<stdio.h>
+	<stdbool.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693803480 source:d:\thirdyear\ai\non_ai_magic_square\main.c
+	<stdio.h>
+	<stdlib.h>
+
